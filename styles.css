@@ -164,6 +164,8 @@ nav .right a span{
 }
 
 .projects-section .project {
+    border: 1.5px solid #d3d3d3;
+    border-radius: 5px;
     margin-bottom: 30px;
 }
 
@@ -197,6 +199,10 @@ nav .right a span{
 
 .projects-section .group .text {
     flex: 8;
+}
+
+.projects-section .group .text p {
+    margin-bottom: 20px;
 }
 
 /* SECTION 4: Contact */
